@@ -13,7 +13,7 @@
   "dependencies": {
     "amqplib": "^0.7.0",
     "body-parser": "^1.19.0",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "express-validator": "^6.10.0",
     "mongoose": "^5.11.18",
     "properties-reader": "^2.2.0",
